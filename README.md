@@ -2,7 +2,6 @@
 
 I'm a She Codes Plus student and aspiring developer making the jump from pharmacy into tech. After a decade running chaotic dispensaries, I’m now deep in the world of full-stack web dev — building React frontends, Django REST APIs, and a future where my job doesn’t involve counting pills all day.
 
----
 
 ## About Me
 
@@ -11,14 +10,14 @@ I'm a She Codes Plus student and aspiring developer making the jump from pharmac
 - Obsessed with data and analytics — especially visualisation  
 - Driven by community, mentorship, and creating tech spaces that support everyone  
 
----
+
 
 ## 🌱 Learning
 
 - Leveling up my React skills — state management, routing, and building cleaner, smarter components  
 - Exploring Django REST Framework in more depth, especially permissions, authentication, models, and API structure  
 
----
+
 
 ## 🎯 Up Next
 
@@ -47,7 +46,7 @@ I'm a She Codes Plus student and aspiring developer making the jump from pharmac
 ![VS Code](https://img.shields.io/badge/VS%20Code-3d2aff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-4c3aff?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 
 ## 🤝 Connect With Me
 
